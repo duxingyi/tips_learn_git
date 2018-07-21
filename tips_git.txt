@@ -13,3 +13,8 @@ some time the editor would lead to unknown Error when operating commit just like
 error: There was a problem with the editor ' D:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe '
 DON'T PANIC!
 just DO COMMIT AGAIN
+
+
+** When to use branch in git
+1 new experiment coding for some creative mode
+2 some stably demo
