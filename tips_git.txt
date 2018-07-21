@@ -1,0 +1,9 @@
+** here are some tips for learning git
+** every tip listed directly without " ** "
+
+In chapter of configing the default editor, the lady teacher coded that:
+git config --global core.editor " 'D:/Program Files/Sublime Text 3/sublime_text.exe'  -n -w"
+THAT IS WRONG COMMAND!
+the command casues fatal Error: bad config, maybe the location of editor cound't be reconized
+RIGHT COMMAND: 
+git config --global core.editor "D:/Program\ Files/Sublime\ Text\ 3/sublime_text.exe "
