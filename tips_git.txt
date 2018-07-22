@@ -18,3 +18,7 @@ just DO COMMIT AGAIN
 ** When to use branch in git
 1 new experiment coding for some creative mode
 2 some stably demo
+
+** present logs of current branch 
+** git log --graph --oneline master BranchName1 BranchName2
+** before visualizing, switch to BranchName1 is important
